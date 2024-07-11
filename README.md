@@ -1,6 +1,8 @@
 # Resources: 
 The csv used for this project is 201907-citibike-tripdata_1
 link to tableau file: https://drive.google.com/file/d/1bpXOMgHr1QDD53zKInN0cJDR18uzBOaT/view?usp=sharing
+https://public.tableau.com/app/profile/mohammed.ali7606/viz/CitiBike-Project/StartLocations-Bikers?publish=yes
+
 # Citi-Bike
 Before You Begin
 Save this assignment to your Tableau Public account rather than GitHub.
