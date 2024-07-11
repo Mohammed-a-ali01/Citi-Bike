@@ -1,3 +1,6 @@
+# Resources: 
+The csv used for this project is 201907-citibike-tripdata_1
+
 # Citi-Bike
 Before You Begin
 Save this assignment to your Tableau Public account rather than GitHub.
